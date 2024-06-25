@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 - Detergente
 - Fideos
 - Arroz
+=======
+- Pasta de dientes
+- Tomates
+- Chía
+- Pan
+>>>>>>> lista-alex
