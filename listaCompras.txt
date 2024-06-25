@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 - Detergente
 - Fideos
 - Arroz
-=======
 -Pasta de dientes
 -Lavalozas
 -Shampoo
->>>>>>> Lista_Pablo
 
 - Pasta de dientes
 - Tomates
